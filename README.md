@@ -7,6 +7,8 @@ Ini adalah dashboard rekweb uas kelompok 1 dengan anggota
 4. Akbar Sidiq Kurniawan (20121062)
 5. Alifah Maya Kinanti Putri (20210065)
 
+PHP Yang Digunakan Adalah PHP 8.1.6 Versi laravel 9 
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
