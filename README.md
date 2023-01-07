@@ -1,3 +1,13 @@
+## Dashboard-Rekweb-UAS-Kelompok1
+Ini adalah dashboard rekweb uas kelompok 1 dengan anggota
+
+1. Okta Ferilianty (21210078)
+2. Michael Anggun Kado P. (201210057)
+3. Tiara Ramandhita Sugiyarti (201210056) 
+4. Akbar Sidiq Kurniawan (20121062)
+5. Alifah Maya Kinanti Putri (20210065)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
